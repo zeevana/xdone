@@ -1,0 +1,14 @@
+{
+  "telegram_bot_token": "",
+  "telegram_chat_id": "",
+  "use_telegram": false,
+  "use_proxy": false,
+  "poll_interval": 300,
+  "accounts": [
+    {
+      "email": "",
+      "token": "",
+      "appid": ""
+    }
+  ]
+}
